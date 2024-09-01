@@ -11,9 +11,7 @@ The project is organized into the following Jupyter notebooks:
 
 1. **[Data Collection and Feature Engineering.ipynb](Data%20Collection%20and%20Feature%20Engineering.ipynb)**
    - **Purpose:** Scrape data from the website and perform initial feature engineering tasks such as handling missing data, removing outliers, and creating new features.
-   - **Related Notebook:** [Preprocessing_Visual.ipynb](Preprocessing_Visual.ipynb)
-
-2. **[Preprocessing_Visual.ipynb](Preprocessing_Visual.ipynb)**
+2. **[Preprocessing_Visual.ipynb](Data%20Preprocessing.ipynb)**
    - **Purpose:** Conduct data preprocessing tasks and visualize the data to understand distributions and relationships between features.
 
 3. **[Model.ipynb](Model.ipynb)**
